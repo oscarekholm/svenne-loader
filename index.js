@@ -3,7 +3,7 @@ module.exports = function (innehåll) {
     [/detta|denna/g, 'this'],                                  // this
     [/klass\s+/g, 'class '],                                   // class
     [/\s+utökar\s+/g, ' extends '],                            // extends
-    [/byggherre(\s+|\()/g, 'constructor$1'],                   // constructor
+    [/borrgranne(\s+|\()/g, 'constructor$1'],                   // constructor
     [/toppen\s*\(/g, 'super('],                                // super
     [/statisk(\s+|\()/g, 'static$1'],                          // static
     [/importera\s+/g, 'import '],                              // import
