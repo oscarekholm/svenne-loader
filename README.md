@@ -21,7 +21,7 @@ A Webpack loader for working with Javascript in Swedish
 [Documentation: Using loaders](http://webpack.github.io/docs/using-loaders.html)
 
 ``` javascript
-const js = require("svenne!./svenne-file.js") // returns regular Javascript from your svenne js
+const js = require('svenne!./svenne-file.js') // returns regular Javascript from your svenne js
 ```
 
 ### Implemented translations
