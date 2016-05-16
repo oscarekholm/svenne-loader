@@ -33,7 +33,7 @@ Javascript | Swedish Javascript
 this | denna _(detta)_
 class | klass
 extends | utökar
-constructor | borrgranne
+constructor | byggherre _(borrgranne)_
 super | toppen
 static | statisk
 new | ny _(nytt)_
@@ -103,7 +103,7 @@ length | längd
 
 ```javascript
 klass Djur {
-  borrgranne () {
+  byggherre () {
     kontrollpanel.logga('Jag är ett djur!')
   }
 
@@ -113,7 +113,7 @@ klass Djur {
 }
 
 klass Häst utökar Djur {
-  borrgranne () {
+  byggherre () {
     toppen()
 
     detta.djur = 'Häst'
