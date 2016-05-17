@@ -33,7 +33,7 @@ Javascript | Swedish Javascript
 this | denna _(detta)_
 class | klass
 extends | utökar
-constructor | byggherre
+constructor | byggherre _(borrgranne)_
 super | toppen
 static | statisk
 new | ny _(nytt)_
